@@ -1,0 +1,110 @@
+body {
+	width: 741px;
+}
+
+fieldset {
+	display: inline-block;
+	border: 1px solid black;
+
+}
+
+.fieldset-header {
+	width: 720px;
+	text-align: center;
+	font-size: 30px;
+	color: yellow;
+	vertical-align: top;
+	
+}
+
+.wrapper {
+	width: 741px;
+
+	
+}
+
+.products-list {
+	width: 60%;
+	display: inline-block;
+	margin: 10px auto;
+}
+
+.variations {
+	width: 30%;
+	display: inline-block;
+	padding: 50px 20px 50px 20px;
+	border: none;
+	float: right;
+}
+
+.product {
+	width: 41%;
+	margin: 5px;
+	
+}
+
+
+table {
+	width: 180px;
+}
+
+.cpu {
+	text-align: right;
+}
+
+td {
+	font-family: cursive;
+	font-size: 13px;
+	font-weight: bold;
+}
+
+.parameters {
+	text-align: right;
+}
+
+
+legend {
+	font-weight: bold;
+	font-family: georgia;
+	color: red;
+}
+
+p {
+	font-family: cursive;
+	font-size: 20px;
+	margin: 20px auto;
+	font-weight: bold;
+}
+
+input[type=range]{
+    -webkit-appearance: none;
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+    height: 5px;
+    background: #ddd;
+    border: none;
+    border-radius: 10px;
+}
+
+input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    border: none;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background: skyblue;
+    margin-top: -8px;
+}
+
+input[type=range]:focus {
+    outline: none;
+}
+
+input[type=range]:focus::-webkit-slider-runnable-track {
+    background: #ccc;
+}
+
+input {
+	width: 100%;
+}

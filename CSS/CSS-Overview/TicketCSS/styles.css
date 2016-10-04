@@ -1,0 +1,62 @@
+body {
+	margin: 0;
+}
+#wrapper {
+	background-color: #595959;
+	width: 320px;
+	height: 280px;
+	margin-top: -19px;
+}
+
+h3 {
+	color: #ABABAB;
+	font-family: Arial;
+}
+
+.index {
+	font-style: italic;
+	color: #FFFFFF;
+	padding: 0;
+	vertical-align: top;
+
+}
+
+table {
+	height: 250px;
+	width: 300px;
+
+}
+
+.info {
+	vertical-align: top;
+}
+
+.name {
+	color: #DFC183;
+}
+
+.support {
+	color:red;
+}
+
+.email {
+	color: #DFC183;
+}
+
+.post {
+	color: #DFC183;
+}
+
+.answer {
+	color: #CC7326;
+	vertical-align: top;
+}
+
+.gray {
+	color: #ABABAB;
+}
+
+.name:before {
+	content: url("Bullet.png");
+}
+

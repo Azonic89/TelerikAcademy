@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Nested Lists</title>
+</head>
+<body>
+<style scoped>
+body > ol {
+	padding: 0;
+}	
+
+
+</style>
+<p><strong>Precending Text</strong></p>
+	<ol style="list-style-type: none;">
+	  <li>
+	  <ol style="list-style-type: upper-roman;">
+	  	<li>List Item 1
+	  	  <ol style="list-style-type: lower-alpha;">
+	  		<li>Nested Item 1.1</li>
+	  		  <li>Nested Item 1.2</li>
+	  		</ol>
+	  	</li>
+	  	<li>List Item 2
+	  		<ol>
+	  		  <li>Nested Item 2.1</li>
+	  		    <li>Nested Item 2.2
+		  		  <ol style="list-style-type: circle;">
+		  				<li>Nested Item 2.2.1</li>
+		  			<li>Nested Item 2.2.2
+		  					<ol style="list-style-type: square;">
+		  						<li>Nested Item 2.2.2.1</li>
+		  						<li>Nested Item 2.2.2.2</li>
+		  					</ol>
+		  				</li>
+		  				<li>Nested Item 2.2.3</li>
+		  			</ol>
+	  			</li>
+	  			<li>Nested Item 2.3</li>
+	  		</ol>
+	  	</li>
+	  	<li>List Item 3
+	  		<ul style="list-style-type: initial;">
+	  			<li>Nested Item 3.1</li>
+	  			<li>Nested Item 3.1</li>
+	  			<li>Nested Item 3.1</li>
+	  		</ul>
+	  	</li>
+	  </ol>
+	  </li>
+	  </ol>
+</body>
+</html>

@@ -1,0 +1,17 @@
+.list-link {
+	font-size: 18px;
+}
+
+fieldset {
+	width: 250px;
+}
+
+hr {
+	height: 5px;
+	background-color: skyblue;
+}
+
+body {
+	background-color: #56566E;
+	font-family: cursive;
+}

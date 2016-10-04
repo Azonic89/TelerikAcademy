@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BankAccounts.Account">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAABAAAAAAAAAAgAAAAIAAEAAAADAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Abstract\Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankAccounts.Models.Customer">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAIAAAACAQAAAAEIAAAACAAAAAAIAAAA=</HashCode>
+      <FileName>Models\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankAccounts.Models.DepositAccount">
+    <Position X="6.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAACAAAAAAAAAAI=</HashCode>
+      <FileName>Models\DepositAccount.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BankAccounts.Models.LoanAccount">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAI=</HashCode>
+      <FileName>Models\LoanAccount.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BankAccounts.Models.MortgageAccount">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAI=</HashCode>
+      <FileName>Models\MortgageAccount.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BankAccounts.PrintAccounts">
+    <Position X="9.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>PrintAccounts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankAccounts.BankAccountsRunTest">
+    <Position X="11" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>BankAccountsRunTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="BankAccounts.Interfaces.IDepositable">
+    <Position X="9.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Interfaces\IDepositable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BankAccounts.Interfaces.IWithDrawlable">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IWithDrawlable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="BankAccounts.Enumerations.CustomerType">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enumerations\CustomerType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

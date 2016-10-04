@@ -1,0 +1,39 @@
+table {
+	background: #CCEE8D;
+	text-shadow: 1.3px 1.3px;
+	color: #9D9F89;
+	font-size: 35px;
+	width: 240px;
+	height: 300px;
+	margin: 0;
+	border: 1px solid #84AF97;
+	border-spacing: 0;
+}
+td {
+	box-shadow: 2px 2px;
+	width: 60px;
+	height: 60px;
+	border: 1px solid #84AF97;
+	margin: 0;
+	border-spacing: 0;
+}
+.o23 {
+	text-align: right;
+}
+.one,
+.two,
+.three,
+.four,
+.five,
+.six,
+.seven,
+.eight,
+.nine,
+.plus,
+.minus,
+.multiply,
+.divide,
+.point,
+.zero {
+	text-align: center;
+}

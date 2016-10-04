@@ -1,0 +1,5 @@
+D:\Programming\Telerik\C#\5.HQC Part 1\6.High-quality Methods\homework\Methods\bin\Debug\Methods.exe
+D:\Programming\Telerik\C#\5.HQC Part 1\6.High-quality Methods\homework\Methods\bin\Debug\Methods.pdb
+D:\Programming\Telerik\C#\5.HQC Part 1\6.High-quality Methods\homework\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+D:\Programming\Telerik\C#\5.HQC Part 1\6.High-quality Methods\homework\Methods\obj\Debug\Methods.exe
+D:\Programming\Telerik\C#\5.HQC Part 1\6.High-quality Methods\homework\Methods\obj\Debug\Methods.pdb

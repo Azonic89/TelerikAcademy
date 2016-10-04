@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Registration Form</title>
+	<link href="style.css" rel="stylesheet">
+</head>
+<body>
+<form>
+<table>
+	<tr>
+		<td class="label"><label for="last-name"><strong>Last Name</strong></label></td>
+		<td class="input" colspan="2"><input id="last-name" type="text" class="names" placeholder="Last Name"></td>
+	</tr>
+	<tr>
+		<td><label for="first-name"><strong>First Name</strong></label></td>
+		<td colspan="2" class="input"><input id="first-name" type="text" class="names" placeholder="First Name"></td>
+	</tr>
+	<tr>
+		<td><label for="address"><strong>Address</strong></label></td>
+		<td class="input" colspan="2"><textarea id="address" cols="40" rows="5" placeholder="Write your Address here:"></textarea></td>
+	</tr>
+	<tr>
+    	<td><label for ="city"><strong>City</strong></label></td>
+    	<td class="input">
+        <input id="city" type="text" placeholder="City or Town">
+        </td>
+        <td>
+        <label for="state"><strong>State</strong></label>
+        <input type="text" id="state" class="state" placeholder="St.">
+    	</td>
+	</tr>
+	<tr>
+		<td><label for="code"><strong>Zip/Postal Code</strong></label></td>
+		<td class="input" colspan="2"><input id="code" type="number" placeholder="Example: 5000"></td>
+	</tr>
+	<tr>
+		<td><label for="country"><strong>Country</strong></label></td>
+		<td class="input" colspan="2"><select id="country" class="country">
+			<option>Bulgaria</option>
+			<option>Kongo</option>
+			<option>Pakistan</option>
+			<option>Kazachstan</option>
+			<option>Libya</option>
+			<option>Syria</option>
+		</select></td>
+	</tr>
+	<tr>
+		<td><label for="phone"><strong>Phone (country code,area code,number)</strong></label></td>
+		<td class="input" colspan="2">(+<input id="phone" type="number" class="phone" placeholder="C.code"> 
+		) <input type="number" class="phone" placeholder="A.code">
+		- <input type="number" class="phone-two" placeholder="Number"></td>
+	</tr>
+	<tr>
+		<td><label for="mail"><strong>E-mail</strong></label></td>
+		<td class="input" colspan="2"><input id="mail" type="email" placeholder="E-mail"></td>
+	</tr>
+	<tr>
+		<td><label for="birth-date"><strong>Birth Date</strong></label></td>
+		<td class="input" colspan="2">Month<input id="birth-date" type="number" placeholder="mm">
+		Day<input class="day" type="number" placeholder="dd">
+		Year (4 digits)<input class="year" type="number" placeholder="yyyy"></td>
+	</tr>
+	<tr>
+		<td><label for="gender"><strong>Gender</strong></label></td>
+		<td class="input" colspan="2">
+			<select id="gender">
+				<option>Male</option>
+				<option>Female</option>
+			</select>
+		</td>
+	</tr>
+	<tr>
+		<td><label for="radio"><strong>Starting date</strong></label></td>
+		<td class="input" colspan="2">
+			<input id="radio" type="radio" name="date-selected"> Spring 2017
+			<input type="radio" name="date-selected"> Summer 2017
+		</td>
+	</tr>
+	<tr>
+		<td><label for="comments"><strong>Comments/Questions</strong></label></td>
+		<td class="input" colspan="2"><textarea id="comments" placeholder="Please leave a comment or ask anything here!" cols="40" rows="5"></textarea></td>
+	</tr>
+	<tr class="a">
+
+		<td colspan="3" class="b"><button type="submit">Submit</button>
+		<button type="reset">Clear This Form</button></td>
+		</tr>
+		</table>
+		</form>
+
+</body>
+</html>

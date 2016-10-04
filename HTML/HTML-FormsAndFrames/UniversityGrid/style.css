@@ -1,0 +1,25 @@
+table {
+	border-spacing: 0;
+	width: 800px;
+	height: 500px
+}
+
+tr {
+	border: 1px solid gray;
+	border-spacing: 0;
+}
+
+th {
+	border: 1px solid gray;
+	border-spacing: 0;
+	font-size: 20px;
+}
+
+td {
+	border: 1px solid gray;
+	padding-left: 10px;
+}
+
+.total {
+	font-weight: bold;
+}

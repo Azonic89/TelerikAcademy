@@ -1,0 +1,61 @@
+.first-row {
+	background-color: green;
+	color: white;
+}
+
+table {
+	border-spacing: 0;
+   border-bottom: 1px solid gray;
+	width: 500px;
+	height: 150px;
+	font-family: helvetica;
+	font-size: 15px;
+}
+
+table td {
+   border-left: 1px solid gray;
+   border-right: 1px solid gray;
+}
+
+table td:first-child {
+   border-left: none;
+}
+
+table td:last-child {
+   border-right: none;
+}
+
+tr:nth-child(2n+3) {
+   background-color: #ECECD8;
+
+}
+
+input[type="checkbox"] {
+   width: 13px;                               
+   height: 13px;
+   background-color: #D3CFC7;
+   border: 1px solid gray;
+   box-shadow: inset 2px 2px 2px black;
+}
+
+
+input[type="checkbox"]:checked:after {                                      
+   font-size: 12px;                                         
+   font-weight: bold;
+   color: #5E5F5F;
+   position: absolute;
+   top: 81px;
+   left: 359px;
+}
+
+.germany:before {
+   content: url("Germany.jpg");
+}
+
+.mexico:before {
+   content: url("Mexico.jpg");
+}
+
+.uk:before {
+   content: url("UK.jpg");
+}

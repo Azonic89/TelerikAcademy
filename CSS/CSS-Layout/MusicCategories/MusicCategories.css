@@ -1,0 +1,72 @@
+body {
+	font-family: helvetica;
+	font-size: 12px;
+}
+#wrapper {
+	width: 421px;
+	height: 538px;
+	background-color: #A8A8A8;
+	border-radius: 8px;
+}
+
+h1 {
+	font-size: 20px;
+	padding-left: 8px;
+	padding-top: 15px;
+}
+
+#just-web {
+	border: 1px solid darkslategray;
+	background-color: white;
+	width: 400px;
+	height: 140px;
+	margin: 10px;
+	margin-top: 20px; 
+}
+
+img {
+	float: left;
+	padding: 25px;
+}
+
+.first-text {
+	display: block;
+	padding: 24px;
+}
+
+#btns {
+	float: right;
+	margin-right: 10px;
+}
+#beauty {
+	border: 1px solid darkslategray;
+	background-color: white;
+	width: 400px;
+	height: 140px;
+	margin: 10px;
+	margin-top: 20px; 
+}
+
+#last {
+	border: 1px solid darkslategray;
+	background-color: white;
+	width: 400px;
+	height: 140px;
+	margin: 10px;
+	margin-top: 20px; 
+}
+
+#btns-two {
+	float: right;
+	margin-right: 10px;
+}
+
+#btns-three {
+	float: right;
+	margin-right: 10px;
+}
+
+.second-text {
+	display: block;
+	padding: 23px;
+}

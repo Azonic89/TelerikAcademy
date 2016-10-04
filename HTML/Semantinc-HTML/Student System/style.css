@@ -1,0 +1,32 @@
+h1 {
+	float: right;
+}
+
+table {
+	width: 350px;
+	height: 250px;
+	border: 2px solid #E4ADB0;
+	background-color: #ADE4D1;
+}
+
+td {
+	border: 2px solid #E4ADB0;
+}
+
+th {
+	border: 2px solid #E4ADB0;
+}
+
+body {
+	width: 600px;
+	background-color: #E4D4AD;
+}
+/*header, section, footer, aside, nav, main, article, figure {
+    display: block;  Drug Nachin da podkarash Semantichen HTML na
+    stari browsers:D
+}*/
+
+li {
+	font-family: helvetica;
+	font-size: 25px;
+}

@@ -1,0 +1,86 @@
+p {
+	display: inline-block;
+	color: white;
+	font-size: 23px;	
+}
+
+#login {
+	display: block;
+	background-color: #2A2A2A;
+	border-top-right-radius: 8px;
+	border-top-left-radius: 8px;
+	width: 662px;
+	height: 70px;
+	overflow: hidden;
+}
+
+.monitor {
+	display: inline-block;
+	float: left;
+	padding: 10px;
+}
+
+form {
+	display: inline-block;
+	position: absolute;
+	padding: 25px;
+}
+
+input[type="image"] {
+	float: right;
+	padding-top: 21px;
+	padding-right: 6px;
+}
+
+#content {
+	width: 662px;
+	height: 240px;
+	background-color: #3B3B3B;
+	display: block;
+	border-bottom-right-radius: 8px;
+	border-bottom-left-radius: 8px;
+	padding: 0;
+	overflow: hidden;
+
+}
+
+.yellow {
+	display: block;
+	color: yellow;
+	font-size: 30px;
+	padding: 16px;
+}
+
+.first-paragraph {
+	display: block;
+	padding-left: 8px;
+}
+
+.second-paragraph {
+	display: block;
+	padding-left: 8px;
+}
+
+.third-paragraph {
+	display: block;
+	padding-left: 8px;
+}
+
+span {
+	font-family: sans-serif;
+	font-size: 16px;
+	color: gray;
+}
+
+.white {
+	color: white;
+}
+
+a {
+	text-decoration: none;
+	color: yellowgreen;
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    color: black;
+}

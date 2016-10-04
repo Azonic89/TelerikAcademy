@@ -1,0 +1,24 @@
+table {
+	width: 500px;
+	margin-left: 20px; 
+	padding: 0;
+}
+th {
+	font-size: 32px;
+	font-weight: bold;
+	font-style: italic;
+}
+td { 
+	vertical-align: top;
+	font-size: 18px;
+	width: 250px;
+	margin: 0; 
+	padding: 0;
+	text-align: left;
+}
+
+
+
+
+
+

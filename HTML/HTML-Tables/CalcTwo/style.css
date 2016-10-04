@@ -1,0 +1,27 @@
+button {
+	width: 75px;
+	height: 75px;
+	font-size: 35px;
+	font-family: cursive;
+	background-color: #B4B7ED;
+	color: #0161AD; 
+	border: 1px solid #838BC6;
+	margin-right: -4px;
+}
+button:hover {
+	background-color: #A5C3EF;
+}
+input {
+	width: 298px;
+	height: 75px;
+	background-color: #B4B7ED;
+	text-align: right;
+	font-size: 35px;
+	font-family: cursive;
+	color: #0161AD; 
+	border: 1px solid #838BC6;
+}
+.a {
+	width: 150px;
+	height: 75px;
+}

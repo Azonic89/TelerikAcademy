@@ -1,0 +1,2 @@
+# Team Jax's Legend of the Telerik Dragon
+Console based Role Playing game inspired by the ancient book games. You control one hero and travel around the world of Teleriknia to defeat the legendary Telerik Dragon

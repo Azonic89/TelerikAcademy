@@ -1,0 +1,61 @@
+
+td {
+	border: 1px solid gray;
+	text-align: right;
+}
+
+.label {
+	width: 150px;
+	height: 30px;
+
+}
+.input {
+	width: 240px;
+	height: 30px;
+	text-align: left;
+}
+
+.a {
+	background-color: green;
+}
+
+.b {
+	text-align: center;
+}
+
+table {
+	border-spacing: 0;
+	border: 1px solid gray;
+	width: 490px;
+	background-color: #ECE5D5;
+	color: #21120B;
+}
+
+input#birth-date {
+	width: 32px;
+}
+
+.day {
+	width: 32px;
+}
+
+.year {
+	width: 50px;
+}
+.phone {
+	width: 57px;
+}
+.phone-two {
+	width: 140px;
+}
+
+.country {
+	width: 200px;
+}
+
+.state {
+	width: 40px;
+}
+.names {
+	width: 315px;
+}
