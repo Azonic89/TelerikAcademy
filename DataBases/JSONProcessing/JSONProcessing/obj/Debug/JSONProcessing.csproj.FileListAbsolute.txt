@@ -1,0 +1,8 @@
+C:\Users\Azo\documents\visual studio 2015\Projects\JSONProcessing\JSONProcessing\bin\Debug\JSONProcessing.exe.config
+C:\Users\Azo\documents\visual studio 2015\Projects\JSONProcessing\JSONProcessing\bin\Debug\JSONProcessing.exe
+C:\Users\Azo\documents\visual studio 2015\Projects\JSONProcessing\JSONProcessing\bin\Debug\JSONProcessing.pdb
+C:\Users\Azo\documents\visual studio 2015\Projects\JSONProcessing\JSONProcessing\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Azo\documents\visual studio 2015\Projects\JSONProcessing\JSONProcessing\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Azo\documents\visual studio 2015\Projects\JSONProcessing\JSONProcessing\obj\Debug\JSONProcessing.csprojResolveAssemblyReference.cache
+C:\Users\Azo\documents\visual studio 2015\Projects\JSONProcessing\JSONProcessing\obj\Debug\JSONProcessing.exe
+C:\Users\Azo\documents\visual studio 2015\Projects\JSONProcessing\JSONProcessing\obj\Debug\JSONProcessing.pdb

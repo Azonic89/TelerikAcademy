@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalogue>
+  <album>
+    <name>Invincible</name>
+    <artist>Two Steps from Hell</artist>
+    <year>2010</year>
+    <producer>Thomas J.Bergersen and Nick Phonenix</producer>
+    <price>15</price>
+    <songs>
+      <song>
+        <title>Heart of Courage</title>
+        <duration>2:00</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Archangel</name>
+    <artist>Two Steps from Hell</artist>
+    <year>2011</year>
+    <producer>Thomas J.Bergersen and Nick Phonenix</producer>
+    <price>17</price>
+    <songs>
+      <song>
+        <title>Archangel</title>
+        <duration>2:35</duration>
+      </song>
+    </songs>
+  </album>
+</catalogue>

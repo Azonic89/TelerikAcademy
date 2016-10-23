@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<catalogue>
+  <album>
+    <name>Immortalized</name>
+    <artist>Disturbed</artist>
+    <year>2015</year>
+    <producer>Kevin Churko</producer>
+    <price>21.99</price>
+    <songs>
+      <song>
+        <title>The Sound of Silence</title>
+        <duration>4:19</duration>
+      </song>
+
+      <song>
+        <title>The Vengeful One</title>
+        <duration>4:21</duration>
+      </song>
+    </songs>
+  </album>
+</catalogue>
