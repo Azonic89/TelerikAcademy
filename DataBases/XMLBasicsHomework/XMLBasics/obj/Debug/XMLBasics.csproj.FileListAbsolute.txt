@@ -1,5 +1,0 @@
-C:\Users\Azo\Documents\Visual Studio 2015\Projects\XMLBasicsHomework\XMLBasics\bin\Debug\XMLBasics.dll
-C:\Users\Azo\Documents\Visual Studio 2015\Projects\XMLBasicsHomework\XMLBasics\bin\Debug\XMLBasics.pdb
-C:\Users\Azo\Documents\Visual Studio 2015\Projects\XMLBasicsHomework\XMLBasics\obj\Debug\XMLBasics.csprojResolveAssemblyReference.cache
-C:\Users\Azo\Documents\Visual Studio 2015\Projects\XMLBasicsHomework\XMLBasics\obj\Debug\XMLBasics.dll
-C:\Users\Azo\Documents\Visual Studio 2015\Projects\XMLBasicsHomework\XMLBasics\obj\Debug\XMLBasics.pdb

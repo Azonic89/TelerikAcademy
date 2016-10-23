@@ -1,1 +1,0 @@
-C:\Users\Azo\Documents\Visual Studio 2015\Projects\XMLProcessingHomework\XslTransformationToHTML\bin\Debug\XslTransformationToHTML.exe.config
