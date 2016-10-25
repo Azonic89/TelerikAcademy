@@ -1,5 +1,5 @@
 # TelerikAcademy
-All stuff and homeworks and yolo!
+Courses homeworks separated in different folders.
 
 
-Added everything i wrote until now!!!
+

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<albums>
+  <album>
+    <name>Immortalized</name>
+    <artist>Disturbed</artist>
+  </album>
+  <album>
+    <name>The Gateway</name>
+    <artist>Red Hot Chili Peppers</artist>
+  </album>
+  <album>
+    <name>Loud Hailer</name>
+    <artist>Jeff Beck</artist>
+  </album>
+  <album>
+    <name>Invincible</name>
+    <artist>Two Steps from Hell</artist>
+  </album>
+  <album>
+    <name>Archangel</name>
+    <artist>Two Steps from Hell</artist>
+  </album>
+  <album>
+    <name>Skyworld</name>
+    <artist>Two Steps from Hell</artist>
+  </album>
+</albums>
