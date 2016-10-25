@@ -17,7 +17,7 @@ ORDER BY Salary
 
 --- 3. Write a SQL query to find the full name, salary and 
 --- department of the employees that take the minimal salary 
---- in their department. Use a nested SELECT statement.ssssssss
+--- in their department. Use a nested SELECT statement.
 SELECT CONCAT(e.FirstName, ' ', e.LastName), e.Salary, d.Name
 FROM Employees e 
 JOIN Departments d
