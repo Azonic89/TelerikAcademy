@@ -1,5 +1,0 @@
-D:\Programming\Telerik\C#\5.HQC Part 1\7.High-qualiti Classes\homework\Abstraction\bin\Debug\Abstraction.exe
-D:\Programming\Telerik\C#\5.HQC Part 1\7.High-qualiti Classes\homework\Abstraction\bin\Debug\Abstraction.pdb
-D:\Programming\Telerik\C#\5.HQC Part 1\7.High-qualiti Classes\homework\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
-D:\Programming\Telerik\C#\5.HQC Part 1\7.High-qualiti Classes\homework\Abstraction\obj\Debug\Abstraction.exe
-D:\Programming\Telerik\C#\5.HQC Part 1\7.High-qualiti Classes\homework\Abstraction\obj\Debug\Abstraction.pdb
