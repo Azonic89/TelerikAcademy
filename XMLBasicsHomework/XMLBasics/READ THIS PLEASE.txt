@@ -1,2 +1,0 @@
-Please try opening students.xml with Microsoft Edge for example cause it works there. Chrome give Unsafe attempt to open URL error.
-Some private policy restrictions. TY !!!!
