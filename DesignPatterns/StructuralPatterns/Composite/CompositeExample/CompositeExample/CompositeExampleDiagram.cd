@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CompositeExample.Models.Hero">
+    <Position X="6" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Hero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompositeExample.Models.HeroComponent">
+    <Position X="8" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABQAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\HeroComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompositeExample.Models.HeroKing">
+    <Position X="10.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\HeroKing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
