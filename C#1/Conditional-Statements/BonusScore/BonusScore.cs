@@ -8,9 +8,9 @@ namespace BonusScore
 {
     using System;
 
-    class BonusScore
+    public class BonusScore
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             Console.Write("Enter score: ");
             int score = int.Parse(Console.ReadLine());
