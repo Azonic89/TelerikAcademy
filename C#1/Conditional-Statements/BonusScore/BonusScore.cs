@@ -7,6 +7,7 @@
 namespace BonusScore
 {
     using System;
+
     class BonusScore
     {
         static void Main(string[] args)
